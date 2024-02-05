@@ -25,7 +25,7 @@ body {
     padding: 10px 20px 0px;
 }
 .header {
-    background: url(SL-011023-55240-06.jpg);
+    background: url(imagens/SL-011023-55240-06.jpg);
     background-size: contain;
     min-height: 150px;
     font-size: 105px;
@@ -36,7 +36,7 @@ body {
 .content {
     min-height: 300px;
     padding-left: 12px;
-    background: url(American\ Pitbull.png);
+    background: url(imagens/American\ Pitbull.png);
     background-size: 30%;
     background-repeat: no-repeat;
     background-position: right;
@@ -55,7 +55,7 @@ p {
     color: black;
 }
 .header-sobre {
-    background: url(paw_prints_trail_across_screen.jpg);
+    background: url(imagens/paw_prints_trail_across_screen.jpg);
     background-size:103%;
     min-height: 150px;
     font-size: 105px;
@@ -67,7 +67,7 @@ p {
 .content-sobre{
     min-height: 300px;
     padding-left: 12px;
-    background: url(cat-3237903_1280.png);
+    background: url(imagens/cat-3237903_1280.png);
     background-color: linen;
     background-size: 25%;
     background-repeat: no-repeat;
@@ -76,7 +76,7 @@ p {
 }
 
 .header-horario {
-    background: url(duck-3527585_1280.jpg);
+    background: url(imagens/duck-3527585_1280.jpg);
     background-size: 80%;
     min-height: 150px;
     font-size: 105px;
@@ -89,7 +89,7 @@ p {
     min-height: 300px;
     padding-top: 20px;
     padding-left: 12px;
-    background: url(rabbit-3616436_1280.jpg);
+    background: url(imagens/rabbit-3616436_1280.jpg);
     background-color: rgb(255, 255, 255);
     background-size: cover;
     background-repeat: no-repeat;
@@ -108,7 +108,7 @@ table td, table th {
 }
 
 .header-contato {
-    background: url(impressoes-de-patas-fundo-com-decoracao-de-coracoes_18591-84208.jpg);
+    background: url(imagens/impressoes-de-patas-fundo-com-decoracao-de-coracoes_18591-84208.jpg);
     background-size: 80%;
     min-height: 150px;
     font-size: 105px;
@@ -121,7 +121,7 @@ table td, table th {
     min-height: 300px;
     padding-top: 20px;
     padding-left: 5px;
-    background: url(pequeno-jack-russell-terrier-em-branco.jpg);
+    background: url(imagens/pequeno-jack-russell-terrier-em-branco.jpg);
     background-color: rgb(255, 255, 255);
     background-size: cover;
     background-repeat: no-repeat;
