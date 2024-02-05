@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 html, body {
     margin: 0;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -144,4 +145,152 @@ table td, table th {
 label {
     width: 20px;
     display: inline-block;
+=======
+html, body {
+    margin: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body {
+    background-color: #f1f1f1;
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper {
+    width: 1200px;
+    display: flex;
+    margin: 0 auto;
+    background-color: aquamarine;
+}
+.main {
+    display: flex;
+    flex-flow: column;
+    width: 85%;
+}
+.menu {
+    width: 15%;
+    background-color: aqua;
+    padding: 10px 20px 0px;
+}
+.header {
+    background: url(SL-011023-55240-06.jpg);
+    background-size: contain;
+    min-height: 150px;
+    font-size: 105px;
+    text-align: center;
+    color: darkgoldenrod;
+    font-style: oblique;
+}
+.content {
+    min-height: 300px;
+    padding-left: 12px;
+    background: url(American\ Pitbull.png);
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position: right;
+    
+
+}
+.footer {
+    background-color: rgb(192, 192, 192);
+    min-height: 150px;
+    padding-left: 12px;
+    text-align: end;
+    padding-right: 12px;
+}
+p {
+    font-size: 20px;
+    color: black;
+}
+.header-sobre {
+    background: url(paw_prints_trail_across_screen.jpg);
+    background-size:103%;
+    min-height: 150px;
+    font-size: 105px;
+    text-align: center;
+    color: darkgoldenrod;
+    font-style: oblique;
+}
+
+.content-sobre{
+    min-height: 300px;
+    padding-left: 12px;
+    background: url(cat-3237903_1280.png);
+    background-color: linen;
+    background-size: 25%;
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+
+.header-horario {
+    background: url(duck-3527585_1280.jpg);
+    background-size: 80%;
+    min-height: 150px;
+    font-size: 105px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-style: oblique;
+}
+
+.content-horario{
+    min-height: 300px;
+    padding-top: 20px;
+    padding-left: 12px;
+    background: url(rabbit-3616436_1280.jpg);
+    background-color: rgb(255, 255, 255);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+    color: white;
+    font-size: 30px;
+
+}
+
+table {
+    border-collapse: collapse;
+}
+table td, table th {
+    border: 1px solid white;
+    padding: 5px;
+}
+
+.header-contato {
+    background: url(impressoes-de-patas-fundo-com-decoracao-de-coracoes_18591-84208.jpg);
+    background-size: 80%;
+    min-height: 150px;
+    font-size: 105px;
+    text-align: center;
+    color: darkgoldenrod;
+    font-style: oblique;
+}
+
+.content-contato{
+    min-height: 300px;
+    padding-top: 20px;
+    padding-left: 5px;
+    background: url(pequeno-jack-russell-terrier-em-branco.jpg);
+    background-color: rgb(255, 255, 255);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-bottom: 20px;
+}
+
+.mapa {
+    padding-top: 50px;
+    width: 420px;
+
+}
+
+label {
+    width: 20px;
+    display: inline-block;
+>>>>>>> 4df457b5a7267b3e506be76544d32eec4550d3d5
 }
